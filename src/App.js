@@ -6,9 +6,9 @@ import { connect } from 'react-redux';
 import { setCurrentUser } from './redux/user/user.actions';
 
 import Header from './components/header/header.component';
-import SignInAndSignUp from './pages/signin-signup/signin-signup.component';
 import HomePage from './pages/homepage/homepage.component';
 import ShopPage from './pages/shop/shop-page.component';
+import SignInAndSignUp from './pages/signin-signup/signin-signup.component';
 
 import './App.css';
 
